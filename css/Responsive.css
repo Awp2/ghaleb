@@ -1,0 +1,54 @@
+/* !1600 */
+@media only screen and (max-width: 1600px) {
+  .nav-768 {
+    display: none;
+  }
+}
+/* !1500 */
+@media only screen and (max-width: 1500px) {
+  .nav-768 {
+    display: none;
+  }
+}
+/* !1200 */
+@media only screen and (max-width: 1200px) {
+  .nav-768 {
+    display: none;
+  }
+}
+/* !992 */
+@media only screen and (max-width: 992px) {
+  .nav-768 {
+    display: none;
+  }
+}
+/* !768*/
+@media only screen and (max-width: 768px) {
+  .nav-768 {
+    display: none;
+  }
+}
+/* !576 */
+@media only screen and (max-width: 576px) {
+  .nav-768 {
+    display: block;
+  }
+  .cont-nav ul {
+    display: none;
+  }
+  .baner {
+    height: 30%;
+  }
+  .matlab {
+    width: 10%;
+    height: 50%;
+    margin-top:150px;
+   
+  
+  }
+  .matlab1 {
+    margin-top:150px;
+ 
+  
+  }
+}
